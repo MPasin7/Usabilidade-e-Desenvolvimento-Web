@@ -1,0 +1,41 @@
+textarea{
+    height: 200px;
+    resize: none;
+}
+
+
+
+@media screen and (max-width: 960px){
+    body{
+        background: none !important;
+    }
+    aside{
+        display: none;
+    }
+
+
+iframe{
+    height: 600px;
+}
+}
+
+.itens-menu{
+    text-align: start;
+}
+
+.menu-lateral{
+    max-height: 30px;
+    overflow-y: hidden;
+    flex: 100%;
+    transition: all 1s ease;
+    text-align: start;
+}
+
+.menu-lateral:hover{
+    transition: all 1s ease;
+    max-height: 1000px;
+}
+
+.flex-container{
+    flex-direction: column;
+}
