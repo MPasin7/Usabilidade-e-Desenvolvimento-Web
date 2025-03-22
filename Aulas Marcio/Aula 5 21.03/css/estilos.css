@@ -58,12 +58,12 @@ nav a:hover{
 .bloco{
     border-radius: 12px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-    padding: 60px 60px;
+    padding: 50px 80px;
 }
 .bloco2{
     border-radius: 12px;
     box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
-    font-size: 18px;
+    font-size: 23px;
 }
 .icon{
     font-size: 60px;
@@ -103,4 +103,10 @@ nav a:hover{
 .p1{
     color: gray;
     font-size: 15px;
+}
+.bloco2B{
+    border-radius: 12px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    font-size: 23px;
+    margin-top: 35px;
 }
