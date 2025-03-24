@@ -17,16 +17,13 @@ nav a{
     color: white;
     padding-right: 10px;
 }
-
 nav a:hover{
     text-decoration: underline;
     color: #b8a369;
 }
-
 .carousel-item{
-    height: 700px;
+    height: 800px;
 }
-
 .carousel-caption h2{
     font-size: 36px;
 }
@@ -34,23 +31,23 @@ nav a:hover{
 .carousel-caption{
     text-align: left;
 }
-
 .more{
     background-color: #4b5320;
     color: white;
-
 }
-
 .sub{
     color: #4b5320;
     margin-top: 50px;
 }
-
+.about{}
 .comment{
     color: #4b5320;
     font-size: 18px;
 }
-
+.commentp{
+    color: #85827f;
+    font-size: 15px;
+}
 .blocos{
     margin: auto;
 }
