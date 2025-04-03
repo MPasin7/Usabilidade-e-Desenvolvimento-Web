@@ -1,0 +1,41 @@
+{
+    "turmas" :[
+        {
+            "id": "UC1",
+            "nome": "Usabilidade e Dev Web",
+            "ementa": "asdflkj df lsdjfsdlfkj sdlf",
+            "diasAula": "5as e 6as às 19h",
+            "alunos": ["000","123","456"]
+        },
+        {
+            "id": "UC2",
+            "nome": "Sistemas Distribuídos",
+            "ementa": "asdflkj df lsdjfsdlfkj sdlf",
+            "diasAula": "2as e 3as às 19h",
+            "alunos": []
+            
+        }],
+        "Alunos" : [
+        {
+            "id": "123",
+            "ra":"123",
+            "nome": "Luana",
+            "idade": "20",
+            "sexo": "F"
+        },
+        {
+            "id": "456",
+            "ra":"456",
+            "nome": "João",
+            "idade": "21",
+            "sexo": "M"
+        },    
+        {
+            "id": "789",
+            "ra": "789",
+            "nome": "Luano",
+            "idade": "22",
+            "sexo": "M"
+        }
+        ]
+}
